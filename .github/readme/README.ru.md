@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <a href="../../README.md" title="English" aria-label="English">🇬🇧</a> ·
+  <a href="../../README.md" title="English" aria-label="English">🇬🇧</a> · <a href="README.es.md" title="Español" aria-label="Español">🇪🇸</a> ·
   <a href="README.zh-CN.md" title="简体中文" aria-label="简体中文">🇨🇳</a> ·
   <a href="README.id.md" title="Bahasa Indonesia" aria-label="Bahasa Indonesia">🇮🇩</a> ·
   <a href="README.pt-BR.md" title="Português (Brasil)" aria-label="Português (Brasil)">🇧🇷</a> ·
@@ -21,7 +21,7 @@
   <a href="README.th.md" title="ภาษาไทย" aria-label="ภาษาไทย">🇹🇭</a> ·
   <a href="README.ar.md" title="العربية" aria-label="العربية">🇸🇦</a> ·
   <a href="README.fr.md" title="Français" aria-label="Français">🇫🇷</a>
-  <strong href=".github/readme/README.ru.md" title="Русский" aria-label="Русский">🇷🇺</a>
+  <strong title="Русский" aria-label="Русский">🇷🇺</strong>
 </p>
 
 
