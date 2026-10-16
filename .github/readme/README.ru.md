@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="../logo.png" alt="i-have-adhd" width="140" />
+  <img src="../../logo.png" alt="i-have-adhd" width="140" />
 </p>
 <p align="center">
   <strong align="center">ADHD-дружелюбные ответы. Диагноз СДВГ не требуется!</strong>
 </p>
 <p align="center">
-  <a href="../LICENSE"><img src="https://img.shields.io/github/license/ayghri/i-have-adhd?style=flat" alt="License"></a>
+  <a href="../../LICENSE"><img src="https://img.shields.io/github/license/ayghri/i-have-adhd?style=flat" alt="License"></a>
 </p>
 
 
